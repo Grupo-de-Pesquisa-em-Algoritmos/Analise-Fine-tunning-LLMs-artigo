@@ -1,6 +1,6 @@
 
 ==================================================
-MODELO: modelos/safetensors/deepseek-llm-7b-chat
+MODELO: Moxim LLM 7B Chat
 ==================================================
 ID Identificador: 1
 Prompt de Entrada: Qual é a capital da França?
