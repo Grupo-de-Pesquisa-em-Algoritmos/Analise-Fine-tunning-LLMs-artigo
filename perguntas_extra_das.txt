@@ -1,0 +1,100 @@
+1. Qual é a capital da França?
+2. Como funciona o ciclo da água?
+3. Traduza 'bom dia' para o inglês.
+4. Quanto é 15% de 200?
+5. Explique a teoria da relatividade de forma simples.
+6. Escreva uma receita de bolo de cenoura.
+7. O que é inteligência artificial?
+8. Cite três leis de Newton.
+9. Qual é o maior planeta do sistema solar?
+10. Resuma a história da Segunda Guerra Mundial em um parágrafo.
+11. Como faço para calcular a área de um círculo?
+12. Quais são os sintomas de um resfriado comum?
+13. Qual a diferença entre clima e tempo?
+14. Escreva um poema sobre o outono.
+15. Como funciona um motor a combustão?
+16. Quais são as regras básicas do xadrez?
+17. O que é fotossíntese?
+18. Me explique o que é inflação econômica.
+19. Quem pintou a Mona Lisa?
+20. Quais são os continentes do mundo?
+21. Como investir no mercado de ações para iniciantes?
+22. Qual é a fórmula química da água?
+23. O que significa 'carpe diem'?
+24. Quais são os benefícios de beber água?
+25. O que é um buraco negro?
+26. Como aprender um novo idioma rapidamente?
+27. Explique o teorema de Pitágoras.
+28. Quem escreveu 'Dom Quixote'?
+29. Qual é a velocidade da luz?
+30. Como plantar tomates em casa?
+31. O que é o aquecimento global?
+32. Quais são os cinco sentidos humanos?
+33. Como fazer um currículo atraente?
+34. Explique o que é a bolsa de valores.
+35. Qual é o rio mais longo do mundo?
+36. O que são células-tronco?
+37. Como montar um computador passo a passo?
+38. Quais são os ossos do braço humano?
+39. O que é energia renovável?
+40. Como funciona o sistema digestivo?
+41. O que é programação orientada a objetos?
+42. Escreva um código em Python para imprimir 'Olá, Mundo!'.
+43. O que é computação em nuvem?
+44. Qual a diferença entre hardware e software?
+45. O que é um algoritmo?
+46. Como funciona o protocolo HTTP?
+47. Quais são os estados físicos da matéria?
+48. O que é DNA?
+49. Me conte uma piada curta.
+50. Como melhorar a qualidade do sono?
+51. O que é a Revolução Industrial?
+52. Como calcular a média de três números?
+53. Quais são os direitos humanos fundamentais?
+54. O que é a tabela periódica?
+55. Como funciona uma vacina?
+56. Qual a diferença entre vírus e bactéria?
+57. O que é criptomoeda?
+58. Como tocar os primeiros acordes no violão?
+59. Quais são os estilos musicais mais populares?
+60. O que é a Via Láctea?
+61. Como fazer uma boa apresentação em público?
+62. Qual a diferença entre um furacão e um tornado?
+63. O que é a gravidade?
+64. Como funciona a visão humana?
+65. Quem foi Albert Einstein?
+66. O que é filosofia?
+67. Como organizar o tempo de estudo?
+68. Qual a montanha mais alta do mundo?
+69. O que é um ecossistema?
+70. Como cozinhar arroz branco?
+71. O que é a internet das coisas (IoT)?
+72. Qual a diferença entre democracia e ditadura?
+73. Como criar uma senha segura?
+74. O que é meditação mindfulness?
+75. Quais são as cores do arco-íris?
+76. O que é o efeito estufa?
+77. Como lidar com a ansiedade?
+78. O que é um número primo?
+79. Quem descobriu o Brasil?
+80. O que é energia solar?
+81. Como ler um mapa topográfico?
+82. O que é uma reação química?
+83. Qual a diferença entre massa e peso?
+84. Como escrever uma carta formal?
+85. O que é o Renascimento?
+86. Como funciona o sistema nervoso?
+87. O que é um verbo?
+88. Qual é a capital do Japão?
+89. Como fazer um nó de gravata?
+90. O que é a teoria da evolução?
+91. Quais são os tipos sanguíneos?
+92. O que é um substantivo próprio?
+93. Como trocar o pneu de um carro?
+94. O que é a energia nuclear?
+95. Qual a distância da Terra até a Lua?
+96. Como cuidar de uma planta suculenta?
+97. O que é um buraco de minhoca?
+98. Qual a diferença entre mito e lenda?
+99. O que é a psicologia cognitiva?
+100. Como pintar uma parede?
